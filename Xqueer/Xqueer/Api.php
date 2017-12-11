@@ -8,5 +8,8 @@
  */
 class Xqueer_Api
 {
+    function __construct()
+    {
 
+    }
 }
