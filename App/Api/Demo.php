@@ -6,7 +6,7 @@
  * Date: 2017/12/11
  * Time: 9:56
  */
-class Demo_Api
+class Api_Demo
 {
 
 }

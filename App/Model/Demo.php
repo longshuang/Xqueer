@@ -6,7 +6,7 @@
  * Date: 2017/12/11
  * Time: 9:57
  */
-class Demo_Model
+class Model_Demo
 {
 
 }
